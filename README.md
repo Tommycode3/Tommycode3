@@ -8,6 +8,7 @@ Founder of [Aretē](https://arete.info) — EEG wearables. I build across neurot
 | Repo | What it is | Verified result |
 |---|---|---|
 | [eeg-alpha-bench](https://github.com/Tommycode3/eeg-alpha-bench) | Does your EEG see alpha? Eyes-open/closed Berger-effect benchmark for any headset | 109 PhysioNet subjects: 82.6% pass, median EC/EO alpha reactivity 3.39×, IAF 10.15 ± 0.86 Hz |
+| [adhd-eeg-reality-check](https://github.com/Tommycode3/adhd-eeg-reality-check) | Audit of the theta/beta ratio and of the data leakage behind 95–99% ADHD-from-EEG classifiers | Epoch-split reproduces 95–97%; with shuffled diagnoses still 71–88%; subject-wise split 59–63%; TBR Cz g = −0.27 [−0.62, 0.08] |
 | [flicker2grasp](https://github.com/Tommycode3/flicker2grasp) | SSVEP BCI (CCA, FBCCA, TRCA) on real EEG driving a MuJoCo robot arm | eTRCA 94.8% (12 classes, 0.5 s), 189.6 bit/min; 97–100% pick-and-place success |
 
 ### Physiology & sport
