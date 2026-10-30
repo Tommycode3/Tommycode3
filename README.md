@@ -24,6 +24,7 @@ Founder of [Aretē](https://arete.info) — EEG wearables. I build across neurot
 ### Behavior & research methods
 | Repo | What it is | Verified result |
 |---|---|---|
+| [taulapse](https://github.com/Tommycode3/taulapse) | Reaction-time variability models (ex-Gaussian, drift-diffusion from scratch, RT spectra) with parameter/model recovery | HYPERAKTIV CPT-II: ex-Gaussian τ 96 vs 69 ms, ADHD vs clinical controls, Cliff δ = 0.42 [0.21, 0.62]; DDM density matches simulation (KS ≤ 0.013) |
 | [jitai-lab](https://github.com/Tommycode3/jitai-lab) | Design & analysis of micro-randomized trials for just-in-time interventions (WCLS, MRT sample size) | WCLS bias ≤ 0.002, 95% CI coverage 0.94–0.96; naive regression +30% biased under context-dependent randomization |
 
 ### Aerospace & simulation
