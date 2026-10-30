@@ -15,6 +15,7 @@ Founder of [Aretē](https://arete.info) — EEG wearables. I build across neurot
 |---|---|---|
 | [fractal-threshold](https://github.com/Tommycode3/fractal-threshold) | DFA-α1 aerobic/anaerobic thresholds from RR intervals | Matches `nolds` to 1e-14; α1 1.25 → 0.59 across exercise tests; 2 ms beat jitter fakes a threshold |
 | [bodyledger](https://github.com/Tommycode3/bodyledger) | Local-first wearable data store (COROS, Google Health) + read-only MCP server | Robust baselines (median/MAD), lag-checked correlations with FDR control |
+| [cruxtrace](https://github.com/Tommycode3/cruxtrace) | Climbing sessions from a wrist IMU: HMM climb/rest segmentation, time-on-wall, movement smoothness (SPARC, LDLJ) | Validated on a synthetic generator only; real-data benchmark open (labeling protocol included) |
 | [fitbit-air-lab](https://github.com/Tommycode3/fitbit-air-lab) | BLE reverse-engineering lab for the Fitbit Air | GATT dump + HR stream recorder with gap-aware quality report |
 
 ### Behavior & research methods
