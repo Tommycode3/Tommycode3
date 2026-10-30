@@ -17,6 +17,11 @@ Founder of [Aretē](https://arete.info) — EEG wearables. I build across neurot
 | [bodyledger](https://github.com/Tommycode3/bodyledger) | Local-first wearable data store (COROS, Google Health) + read-only MCP server | Robust baselines (median/MAD), lag-checked correlations with FDR control |
 | [fitbit-air-lab](https://github.com/Tommycode3/fitbit-air-lab) | BLE reverse-engineering lab for the Fitbit Air | GATT dump + HR stream recorder with gap-aware quality report |
 
+### Behavior & research methods
+| Repo | What it is | Verified result |
+|---|---|---|
+| [jitai-lab](https://github.com/Tommycode3/jitai-lab) | Design & analysis of micro-randomized trials for just-in-time interventions (WCLS, MRT sample size) | WCLS bias ≤ 0.002, 95% CI coverage 0.94–0.96; naive regression +30% biased under context-dependent randomization |
+
 ### Aerospace & simulation
 | Repo | What it is | Verified result |
 |---|---|---|
