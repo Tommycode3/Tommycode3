@@ -24,6 +24,7 @@ I'm Tommaso. I build [Aretē](https://arete.info), EEG glasses, and in between I
 [ui-reward](https://github.com/Tommycode3/ui-reward) a 0.5B model learns to write HTML from rewards computed in a headless browser, and the reward hacks it found on the way
 
 **Brain and behaviour**<br>
+[silent-emg](https://github.com/Tommycode3/silent-emg) silently mouthed dates and times decoded from face and neck EMG ·
 [eeg-repro](https://github.com/Tommycode3/eeg-repro) EEGNet, ShallowConvNet and DeepConvNet rerun on BCI IV 2a, paper numbers next to ours ·
 [taulapse](https://github.com/Tommycode3/taulapse) ex-Gaussian and drift-diffusion models of reaction-time variability ·
 [jitai-lab](https://github.com/Tommycode3/jitai-lab) design and analysis of micro-randomized trials
